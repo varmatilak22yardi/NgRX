@@ -6,10 +6,10 @@ import { groceryAction } from "../actions/grocery.action";
 
 const initialState:Grocery[]=[
 
-  {id:1,name:'Banana','type':'fruit'},
-  {id:2,name:'MIlk','type':'fruit'},
-  {id:3,name:'Lays Chips','type':'snacks'},
-  {id:4,name:'Doritos','type':'snacks'}
+  {id:1,name:'Angular','type':'Dev'},
+  {id:2,name:'C#','type':'Dev'},
+  {id:3,name:'SQL','type':'csd'},
+  {id:4,name:'CRM','type':'csd'}
 
 ]
 
